@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00695C</color>
+    <color name="colorAccent">#ffc107</color>
+    <color name="colorPrimaryLight">#80CBC4</color>
+    <color name="colorControlActivated">#ffc107</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="global_color_control_highlight">#40000000</color>
+    <color name="global_color_clickable_inverse">#aaffffff</color>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/aro/.android/build-cache/09f5c6d8b3af6e383c8e22435b51af3b7b25357f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/home/aro/LagosJavaDevs2/app/build/intermediates/pre-dexed/debug/classes_873a25690bc303916ec5d035ecc79d6ff4075400.jar" />
+    </item>
+
+</items>
